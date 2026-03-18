@@ -31,6 +31,7 @@ After a decade building AI/ML platforms at Amazon, I built these agents to apply
 
 - **Stack**: Vanilla JS · Bolt edge functions · Bolt managed database · Claude Sonnet · Sarvam AI (voice)
 - **What it does**: Three-agent system — Generator picks from 70 seeded real PM questions or generates a new one via few-shot prompting; Interviewer conducts category-aware back-and-forth with real pacing; Evaluator scores the full transcript across Structure, Specificity, Opinion Clarity, and Depth Under Pressure with a calibrated rubric and specific debrief. Session history and score trends tracked over time.
+- **Live**: [pm-interview-simulat-xs5s.bolt.host](https://pm-interview-simulat-xs5s.bolt.host/)
 - **Repo**: [pm-interview-simulator](https://github.com/mounicasirineni/pm-interview-simulator)
 
 ---
